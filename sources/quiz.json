@@ -1,0 +1,45 @@
+{
+  "sorular" : [
+	  {
+		  "id" : 1,
+		  "soru" : "Bir giysinin iki yanını bitiştirmeye yarayan ve metal bir halka ile bir çengelden oluşan araca ne ad verilir?",
+		  "cevaplar" : [
+			"Gergef", "Yüksük", "Kopça","Çile"
+		  ],
+		  "dogru" : "C"
+	  },
+	  {
+		  "id" : 2,
+		  "soru" : "Haberlerde “Avam Kamarası'nda kabul edilen yasa tasarısı, Lordlar Kamarası'nda görüşülecek” cümlesini duyduysanız, bahsi geçen ülke hangisidir?",
+		  "cevaplar" : [
+			"İsveç", "İngiltere", "Almanya","Danimarka"
+		  ],
+		  "dogru" : "B"
+	  },
+	  {
+		  "id" : 3,
+		  "soru" : "Değeri olan şeyleri, kimseleri koruyan veya sayan, iyilikbilir kişiler için kullanılan ifade hangisidir?",
+		  "cevaplar" : [
+			"Müşkülpesent", "Nane Molla", "Kadirşinas","Vakur"
+		  ],
+		  "dogru" : "C"
+	  },
+	  {
+		  "id" : 4,
+		  "soru" : "“Süper Mario” oyununda, Mario’nun kendisi gibi muslukçu olan erkek kardeşinin adı nedir?",
+		  "cevaplar" : [
+			"Emilio", "Luigi", "Leonardo","Luciano"
+		  ],
+		  "dogru" : "B"
+	  },
+	  {
+		  "id" : 1,
+		  "soru" : "“Manfred”, “Sid” ve “Diego” hangi animasyon filminin karakterleridir?",
+		  "cevaplar" : [
+			"Buz Devri", "Aslan Kral", "Oyuncak Hikayesi", "Kung Fu Panda"
+		  ],
+		  "dogru" : "A"
+	  },
+		
+  ]
+}
