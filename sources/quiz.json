@@ -1,11 +1,9 @@
 {
   "sorular" : [
-	  {
-		  "id" : 1,
+    {
+      "id" : 1,
 		  "soru" : "Bir giysinin iki yanını bitiştirmeye yarayan ve metal bir halka ile bir çengelden oluşan araca ne ad verilir?",
-		  "cevaplar" : [
-			"Gergef", "Yüksük", "Kopça","Çile"
-		  ],
+		  "cevaplar" : ["Gergef", "Yüksük", "Kopça","Çile"],
 		  "dogru" : "C"
 	  },
 	  {
@@ -33,13 +31,12 @@
 		  "dogru" : "B"
 	  },
 	  {
-		  "id" : 1,
+		  "id" : 5,
 		  "soru" : "“Manfred”, “Sid” ve “Diego” hangi animasyon filminin karakterleridir?",
 		  "cevaplar" : [
 			"Buz Devri", "Aslan Kral", "Oyuncak Hikayesi", "Kung Fu Panda"
 		  ],
 		  "dogru" : "A"
-	  },
-		
+	  }
   ]
 }
